@@ -14,7 +14,7 @@ permalink: /science/
   * Poster: RECOMB 2019, Washington, DC
 * Phylodynamic Analysis of Viral Infections
 
-## Undergraduate Research
+## Undergraduate research
 
 * Orthologous Genes in _E. coli_
 * Genome Sequecning and Assembly of _T. scripta_
