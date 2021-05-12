@@ -2,7 +2,7 @@
 
 <img src="headshot_cropped.jpg" alt="photo of Madison H. Hansen" class="inline" height="200">
 
-I am currently working as a Data Scientist in the IBM Technology Garage. I specialize Big Data, data understanding, and applying Agile practices to data projects. I live (and work from home) in New Haven, Connecticut, USA. When I'm not on the clock, I enjoy biking/swimming, fantasy books/shows/movies, and cuddling my cat Zara. 
+I am currently working as a Data Scientist in the IBM Technology Garage. I specialize in Big Data, data understanding, and applying Agile practices to data projects. I live (and work from home) in New Haven, Connecticut, USA. When I'm not on the clock, I enjoy biking/swimming, fantasy books/shows/movies, and cuddling my cat Zara. 
 
 In my previous career, I was an evolutionary biology researcher at the American Museum of Natural History in New York, New York, USA. I was awarded a Master's degree for my project about optimization algorithms for phylogenetics. Besides teaching me about algorithms, New York also taught me how to navigate the subway system and how to sing karaoke.
 
