@@ -1,9 +1,11 @@
 # About me
 
-<img src="profile.jpg" alt="photo of Madison H. Hansen" class="inline" height="200">
+<img src="headshot_cropped.jpg" alt="photo of Madison H. Hansen" class="inline" height="200">
 
-I am currently a PhD Candidate in Comparative Biology at the American Museum of Natural History's Richard Gilder Graduate School. I research new computational algorithms and their applications to genomic data, in order to enhance our understanding of evoultionary history. It has been rewarding to learn how to apply my computational skills to the pursuit of unknown frontiers in basic (fundamental) science. I plan to finish my PhD by September 2019.
+I am currently working as a Data Scientist in the IBM Technology Garage. I specialize Big Data, data understanding, and applying Agile practices to data projects. I live (and work from home) in New Haven, Connecticut, USA. When I'm not on the clock, I enjoy biking/swimming, fantasy books/shows/movies, and cuddling my cat Zara. 
 
-I received my Bachelor of Science in Mathematical and Computational Biology from Harey Mudd College in 2015, with a concentration in Philosophy. I particpated in a wide variety of research projects, from ecological fieldwork, to computational genome assembly, to project design for educational mathematics games. The Harvey Mudd experience solidified my passion to work on interdisciplinary projects that benefit society, and to communicate my work effectively and responsibly to the public.
+In my previous career, I was an evolutionary biology researcher at the American Museum of Natural History in New York, New York, USA. I was awarded a Master's degree for my project about optimization algorithms for phylogenetics. Besides teaching me about algorithms, New York also taught me how to navigate the subway system and how to sing karaoke.
 
-I am seeking employment for Fall 2019. I am interested in positions related to: data science, algorithm development, science communication and consulting.
+For college, I attended Harvey Mudd College in Claremont, California, USA, where I majored in Mathematical & Computational Biology with a concentration in Philosophy. The rigorous curriculum allowed me to take advanced classes in math, comptuer science, biology, and philosophy... while still also taking foundational classes in physics, chemistry, engineering, anthropology, French, creative writing, and more. I also worked as a STEM tutor for the Homework Hotline. Good times.
+
+I was raised in San Luis Obispo, California, USA - "the happiest place in America". Despite living there happily for 18 years, I never planned to stay. Instead, I have spent my adult life testing the hypothesis that I can be equally happy in other places, by moving cities every ~4 years and traveling as much as I can. 
